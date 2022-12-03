@@ -1,6 +1,3 @@
-[submodule "anvil"]
-	path = anvil
-	url = https://github.com/minetest-mods/anvil.git
 [submodule "castle_farming"]
 	path = castle_farming
 	url = https://github.com/minetest-mods/castle_farming.git
